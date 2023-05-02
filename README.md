@@ -5,7 +5,7 @@ I am a graduate international student in Computer Science at <b>San Francisco St
 
 ![Malavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalavyaRaval&show_icons=true&theme=dark)
 
-cantact info :- malavyaraval@gmail.com
+Contact Info :- malavyaraval@gmail.com
 <!--
 
 
