@@ -30,7 +30,7 @@ Contact Info :- malavyaraval@gmail.com
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?logo=adobe-photoshop)
-![Github](https://img.shields.io/badge/-GitHub-000?logo=github)
+[![Github](https://img.shields.io/badge/-GitHub-000?logo=github)](https://github.com/MalavyaRaval)
 
 
 
