@@ -8,6 +8,8 @@ I am a graduate international student in Computer Science at <b>San Francisco St
 
 Contact Info :- malavyaraval@gmail.com
 
+Aditya added a message: yo, fk you bich!
+
 <!--
 [![Malavya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MalavyaRaval)](https://github.com/MalavyaRaval/github-readme-stats)
 
