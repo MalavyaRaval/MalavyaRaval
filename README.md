@@ -6,8 +6,9 @@ I am a graduate international student in Computer Science at <b>San Francisco St
 ![Malavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalavyaRaval&show_icons=true&theme=dark&hide_border=true)
 ![Malavya's GitHub Top-Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MalavyaRaval&hide_border=true&theme=dark)
 
-Contact Info :- malavyaraval@gmail.com
+Contact Info :- mraval@sfsu.edu
 
+LinkedIn :- https://www.linkedin.com/in/malavya-raval/
 <!--
 [![Malavya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MalavyaRaval)](https://github.com/MalavyaRaval/github-readme-stats)
 
