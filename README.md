@@ -9,9 +9,9 @@ I am a graduate student in Computer Science at <b>San Francisco State University
 Contact Info :- mraval@sfsu.edu
 
 LinkedIn :- https://www.linkedin.com/in/malavya-raval/
+
 <!--
 [![Malavya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MalavyaRaval)](https://github.com/MalavyaRaval/github-readme-stats)
-
 -->
 
 
