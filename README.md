@@ -10,8 +10,6 @@ Contact Info :- mraval@sfsu.edu
 
 LinkedIn :- https://www.linkedin.com/in/malavya-raval/
 
-Aditya added a message: yo, fk you bich!
-
 <!--
 [![Malavya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MalavyaRaval)](https://github.com/MalavyaRaval/github-readme-stats)
 -->
