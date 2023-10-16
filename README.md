@@ -1,7 +1,7 @@
 # Malavya Raval
 
 ### Hello Everyone 👋
-I am a graduate student in Computer Science at <b>San Francisco State University</b>. I have experience working on my website and various database projects, using languages such as Java, Python, C++, HTML, CSS, JavaScript, and SQL. Additionally, I have completed over 200 LeetCode questions to further improve my skills.
+I am a graduate student in Computer Science at <b>San Francisco State University</b>. I have experience working on my website and various database projects, using languages such as Java, Python, C++, HTML, CSS, JavaScript, Swift and SQL. Additionally, I have completed over 200 LeetCode questions to further improve my skills.
 
 ![Malavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalavyaRaval&show_icons=true&theme=dark&hide_border=true)
 ![Malavya's GitHub Top-Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MalavyaRaval&hide_border=true&theme=dark)
