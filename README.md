@@ -29,6 +29,7 @@ LinkedIn :- https://www.linkedin.com/in/malavya-raval/
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?logo=adobe-photoshop)
 [![Github](https://img.shields.io/badge/-GitHub-000?logo=github)](https://github.com/MalavyaRaval)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=swift)
 
 
 
