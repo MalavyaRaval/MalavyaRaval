@@ -24,12 +24,12 @@ LinkedIn :- https://www.linkedin.com/in/malavya-raval/
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=swift)
 ![HTML](https://img.shields.io/badge/-HTML-000?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000?logo=css3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?logo=adobe-photoshop)
 [![Github](https://img.shields.io/badge/-GitHub-000?logo=github)](https://github.com/MalavyaRaval)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=swift)
 
 
 
