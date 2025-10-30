@@ -63,7 +63,7 @@ Feel free to explore my projects pinned below, or connect with me!
 ---
 
 ## 🔍 What’s Next  
-I’m actively looking to build and contribute to projects that leverage full-stack development, data engineering, AI/ML, or performance-critical systems. I’d love to collaborate, learn, and grow — so please feel free to reach out if you have an idea or just want to say hi!
+I’m actively looking to build and contribute to projects that leverage full-stack development, data engineering, AI/ML, or performance-critical systems. I’d love to collaborate, learn, and grow so please feel free to reach out if you have an idea or just want to say hi!
 
 
 <!--
