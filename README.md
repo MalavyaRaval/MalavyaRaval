@@ -62,6 +62,9 @@ Feel free to explore my projects pinned below, or connect with me!
 
 ---
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
 ## 🔍 What’s Next  
 I’m actively looking to build and contribute to projects that leverage full-stack development, data engineering, AI/ML, or performance-critical systems. I’d love to collaborate, learn, and grow so please feel free to reach out if you have an idea or just want to say hi!
 
