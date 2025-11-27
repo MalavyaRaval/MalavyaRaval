@@ -62,7 +62,7 @@ Feel free to explore my projects pinned below, or connect with me!
 
 ---
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/MalavyaRaval/malavyaraval.github.io/blob/main/marquee.svg" />
 <br />
 
 ## 🔍 What’s Next  
