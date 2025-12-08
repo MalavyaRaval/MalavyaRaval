@@ -1,9 +1,9 @@
 # Malavya Raval  
 
 ### Hello Everyone 👋  
-I’m currently a graduate student in Computer Science at [San Francisco State University](https://www.sfsu.edu/index.html), with a passion for building impactful software and systems.  
+I am a CS grad from [San Francisco State University](https://www.sfsu.edu/index.html), with a passion for building impactful software and systems.  
 
-I’ve worked on my personal website, designed database-backed applications, and explored full-stack development using Java, Python, C++, HTML, CSS, JavaScript, Swift and SQL. I’ve also completed over [500 LeetCode](https://leetcode.com/Malavya/) problems and tackled many [Codewars](https://www.codewars.com/users/MalavyaRaval) Kata to sharpen my algorithmic and problem-solving skills.  
+I have worked on my personal website, designed database-backed applications, and explored full-stack development using Java, Python, C++, HTML, CSS, JavaScript, Swift and SQL. I’ve also completed over [500 LeetCode](https://leetcode.com/Malavya/) problems and tackled many [Codewars](https://www.codewars.com/users/MalavyaRaval) Kata to sharpen my algorithmic and problem-solving skills.  
 
 Feel free to explore my projects pinned below, or connect with me!  
 
