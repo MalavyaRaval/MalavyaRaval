@@ -7,7 +7,7 @@ My work spans full-stack development, AI/ML applications, and system design. Iâ€
 
 I've solved over [500 LeetCode](https://leetcode.com/Malavya/) problems to strengthen my DSA foundation, and I'm always looking to learn and build things that matter.  
 
-Check out some of my featured projects below and feel free to connect or reach out!
+Check out some of my featured projects below and feel free to connect or reach out!  
 
 
 ---
