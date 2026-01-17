@@ -5,7 +5,7 @@ I am a Computer Science graduate from [San Francisco State University](https://w
 
 My work spans full-stack development, AI/ML applications, and system design. I’ve built and presented AI-powered tools at top conferences (AAAI, FQAS) and recently won a hackathon for a real-time safety platform. I actively work with TypeScript, Python, Java, C++, SQL, and React.  
 
-I've solved over [500 LeetCode](https://leetcode.com/Malavya/) problems to strengthen my DSA foundation, and I'm always looking to learn and build things that matter.  
+I have solved over [500 LeetCode](https://leetcode.com/Malavya/) problems to strengthen my DSA foundation, and I'm always looking to learn and build things that matter.  
 
 Check out some of my featured projects below and feel free to connect or reach out!  
 
@@ -69,20 +69,4 @@ Check out some of my featured projects below and feel free to connect or reach o
 <br />
 
 ## 🔍 What’s Next  
-I’m actively looking to build and contribute to projects that leverage full-stack development, data engineering, AI/ML, or performance-critical systems. I’d love to collaborate, learn, and grow so please feel free to reach out if you have an idea or just want to say hi!
-
-
-<!--
-**MalavyaRaval/MalavyaRaval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am actively looking to build and contribute to projects that leverage full-stack development, data engineering, AI/ML, or performance-critical systems. I would love to collaborate, learn, and grow so please feel free to reach out if you have an idea or just want to say hi!
