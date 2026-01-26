@@ -65,8 +65,8 @@ Check out some of my featured projects below and feel free to connect or reach o
 
 ---
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/MalavyaRaval/malavyaraval.github.io/blob/main/marquee.svg" />
-<br />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 
 ## 🔍 What’s Next  
 I am actively looking to build and contribute to projects that leverage full-stack development, data engineering, AI/ML, or performance-critical systems. I would love to collaborate, learn, and grow so please feel free to reach out if you have an idea or just want to say hi!
