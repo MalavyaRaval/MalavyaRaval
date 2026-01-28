@@ -3,7 +3,7 @@
 ### Hey there 👋  
 I am a Computer Science graduate from [San Francisco State University](https://www.sfsu.edu/index.html) with a deep interest in building practical, user-focused software and scalable systems.  
 
-My work spans full-stack development, AI/ML applications, and system design. I’ve built and presented AI-powered tools at top conferences (AAAI, FQAS) and recently won a hackathon for a real-time safety platform. I actively work with TypeScript, Python, Java, C++, SQL, and React.  
+My work spans full-stack development, AI/ML applications, and system design. I’ve built and presented AI-powered tools at top conferences (AAAI, FQAS) and recently won a hackathon for a real-time safety platform. I actively work with TypeScript, JavaScript, Python, Java, C++, SQL, and React.  
 
 I have solved over [500 LeetCode](https://leetcode.com/Malavya/) problems to strengthen my DSA foundation, and I'm always looking to learn and build things that matter.  
 
