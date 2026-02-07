@@ -16,7 +16,9 @@ Check out some of my featured projects below and feel free to connect or reach o
 ![Malavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalavyaRaval&show_icons=true&theme=dark&hide_border=true)
 ![Malavya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MalavyaRaval&hide_border=true&theme=dark)  
 ![Malavya's Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalavyaRaval&theme=dark&hide_border=true)  
-![Malavya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MalavyaRaval&theme=dark&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=MalavyaRaval&cache_seconds=86400)   
+
+
 
 ---
 
