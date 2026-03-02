@@ -1,4 +1,6 @@
-# Malavya Raval  
+# Malavya Raval
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### Hello there 👋  
 I am a Computer Science graduate from [San Francisco State University](https://www.sfsu.edu/index.html) with a deep interest in building practical, user-focused software and scalable systems.  
@@ -10,7 +12,8 @@ I have solved over [500 LeetCode](https://leetcode.com/Malavya/) problems to str
 Check out some of my featured projects below and feel free to connect or reach out!  
 
 
----
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ## 📈 GitHub Stats  
 
@@ -24,7 +27,7 @@ Check out some of my featured projects below and feel free to connect or reach o
 
 
 
----
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🛠 Languages & Tools  
 ![Java](https://img.shields.io/badge/Java-000?&logo=Java)
@@ -63,7 +66,7 @@ Check out some of my featured projects below and feel free to connect or reach o
 ![GitLab](https://img.shields.io/badge/GitLab-000?&logo=gitlab&logoColor=FC6D26)
 ![Vercel](https://img.shields.io/badge/Vercel-000?&logo=vercel&logoColor=000000)
 
----
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📬 Let’s Connect  
 - Email: mraval@sfsu.edu  
