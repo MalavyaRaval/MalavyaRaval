@@ -7,9 +7,6 @@ My expertise encompasses full-stack development, cutting-edge AI/ML applications
 
 With over [500 LeetCode problems solved](https://leetcode.com/Malavya/), I possess a strong foundation in Data Structures and Algorithms, always eager to learn and build solutions that truly make an impact.
 
-## 🚀 Featured Projects
-(Consider adding links to your key projects here!)
-
 ## 📈 GitHub Stats
 
 ![Malavya's Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalavyaRaval&theme=dark&hide_border=true)
