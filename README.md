@@ -31,23 +31,6 @@ With over [500 LeetCode problems solved](https://leetcode.com/Malavya/), I posse
 ![React](https://img.shields.io/badge/React-000?&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-000?&logo=node.js&logoColor=339933)
 ![Docker](https://img.shields.io/badge/Docker-000?&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000?&logo=kubernetes&logoColor=326CE5)
-![AWS](https://img.shields.io/badge/AWS-000?&logo=amazonaws&logoColor=FF9900)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-000?&logo=googlecloud&logoColor=4285F4)
-![Azure](https://img.shields.io/badge/Azure-000?&logo=microsoft-azure&logoColor=0078D4)
-![Terraform](https://img.shields.io/badge/Terraform-000?&logo=terraform&logoColor=7B42BC)
-![Vim](https://img.shields.io/badge/Vim-000?&logo=vim&logoColor=019733)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?&logo=postgresql&logoColor=336791)
-![Jupyter](https://img.shields.io/badge/Jupyter-000?&logo=jupyter&logoColor=F37626)
-![Figma](https://img.shields.io/badge/Figma-000?&logo=figma&logoColor=F24E1E)
-![Slack](https://img.shields.io/badge/Slack-000?&logo=slack&logoColor=4A154B)
-![Trello](https://img.shields.io/badge/Trello-000?&logo=trello&logoColor=0052CC)
-![Linux](https://img.shields.io/badge/Linux-000?&logo=linux&logoColor=FCC624)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-000?&logo=mongodb&logoColor=47A248)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-000?&logo=swift&logoColor=F05138)
-![GraphQL](https://img.shields.io/badge/GraphQL-000?&logo=graphql&logoColor=E10098)
-![GitLab](https://img.shields.io/badge/GitLab-000?&logo=gitlab&logoColor=FC6D26)
-![Vercel](https://img.shields.io/badge/Vercel-000?&logo=vercel&logoColor=000000)
 
 <img height="120" width="100%" src="assets/marquee.svg" alt="Thanks for visiting me" />
 
