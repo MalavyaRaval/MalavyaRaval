@@ -1,5 +1,7 @@
 # Malavya Raval
 
+![Red Line Separator](assets/redline.gif)
+
 ### Greetings, fellow developer! 👋
 I am a dedicated Computer Science graduate from [San Francisco State University](https://www.sfsu.edu/index.html) with a profound interest in crafting practical, user-focused software and scalable systems.
 
@@ -7,10 +9,14 @@ My expertise encompasses full-stack development, cutting-edge AI/ML applications
 
 With over [500 LeetCode problems solved](https://leetcode.com/Malavya/), I possess a strong foundation in Data Structures and Algorithms, always eager to learn and build solutions that truly make an impact.
 
+![Red Line Separator](assets/redline.gif)
+
 ## 📈 GitHub Stats
 
 ![Malavya's Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalavyaRaval&theme=dark&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MalavyaRaval&cache_seconds=86400)
+
+![Red Line Separator](assets/redline.gif)
 
 ## 🛠 Skills & Technologies
 ![Java](https://img.shields.io/badge/Java-000?&logo=Java)
@@ -32,11 +38,12 @@ With over [500 LeetCode problems solved](https://leetcode.com/Malavya/), I posse
 ![Node.js](https://img.shields.io/badge/Node.js-000?&logo=node.js&logoColor=339933)
 ![Docker](https://img.shields.io/badge/Docker-000?&logo=docker&logoColor=2496ED)
 
+![Red Line Separator](assets/redline.gif)
+
 <img height="120" width="100%" src="assets/marquee.svg" alt="Thanks for visiting me" />
 
 ## 📬 Let’s Connect
 - Email: mraval@sfsu.edu
 - LinkedIn: [linkedin.com/in/malavya-raval/](https://www.linkedin.com/in/malavya-raval/)
 
-## 🔍 What’s Next
-I am actively looking to build and contribute to projects that leverage full-stack development, data engineering, AI/ML, or performance-critical systems. I would love to collaborate, learn, and grow so please feel free to reach out if you have an idea or just want to say hi!
+![Red Line Separator](assets/redline.gif)
