@@ -29,7 +29,6 @@ With over [500 LeetCode problems solved](https://leetcode.com/Malavya/), I posse
 ![HTML](https://img.shields.io/badge/HTML-000?&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-000?&logo=css3)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=mongodb)
-![Photoshop](https://img.shields.io/badge/Photoshop-000?&logo=adobe-photoshop)
 [![GitHub](https://img.shields.io/badge/GitHub-000?&logo=github)](https://github.com/MalavyaRaval)
 ![Profile views](https://komarev.com/ghpvc/?username=MalavyaRaval&style=for-the-badge&color=blueviolet)
 ![LeetCode solved](https://img.shields.io/badge/LeetCode-500+-orange?logo=leetcode&logoColor=white)
