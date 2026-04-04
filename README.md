@@ -14,7 +14,7 @@ With over [500 LeetCode problems solved](https://leetcode.com/Malavya/), I posse
 ## 📈 GitHub Stats
 
 ![Malavya's Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalavyaRaval&theme=dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=MalavyaRaval&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MalavyaRaval&cache_seconds=3,600)
 
 ![Red Line Separator](assets/redline.gif)
 
